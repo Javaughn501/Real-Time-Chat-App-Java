@@ -1,5 +1,10 @@
 package org.javaughn.main;
 
+/*
+Author: Javaughn Stephenson
+Date: January 23, 2023
+ */
+
 import org.javaughn.main.ServerHandler;
 
 import java.io.IOException;

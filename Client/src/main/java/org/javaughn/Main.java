@@ -1,7 +1,10 @@
 package org.javaughn;
 
-import org.javaughn.controller.Client;
-import org.javaughn.model.Message;
+/*
+Author: Javaughn Stephenson
+Date: January 23, 2023
+ */
+
 import org.javaughn.view.Login;
 
 public class Main {

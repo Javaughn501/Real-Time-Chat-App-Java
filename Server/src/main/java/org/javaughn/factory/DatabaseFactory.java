@@ -1,5 +1,10 @@
 package org.javaughn.factory;
 
+/*
+Author: Javaughn Stephenson
+Date: January 23, 2023
+ */
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

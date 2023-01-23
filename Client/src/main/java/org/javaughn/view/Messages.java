@@ -1,5 +1,10 @@
 package org.javaughn.view;
 
+/*
+Author: Javaughn Stephenson
+Date: January 23, 2023
+ */
+
 import org.javaughn.controller.Client;
 import org.javaughn.model.Conversation;
 import org.javaughn.model.Message;

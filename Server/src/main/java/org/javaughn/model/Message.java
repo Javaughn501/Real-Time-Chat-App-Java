@@ -1,5 +1,10 @@
 package org.javaughn.model;
 
+/*
+Author: Javaughn Stephenson
+Date: January 23, 2023
+ */
+
 import java.io.Serial;
 import java.io.Serializable;
 
